@@ -18,7 +18,7 @@ cd adventofcode
 conda env create -f environment.yml
 ```
 
-** Run on Python 3.10.8 **
+**Run on Python 3.10.8**
 
 On the environment:
 - Numpy
