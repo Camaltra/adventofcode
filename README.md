@@ -23,3 +23,7 @@ conda env create -f environment.yml
 On the environment:
 - Numpy
 - Jupyter
+
+## Time performance
+
+Code run on a M2 MacPro chips ; 16gb RAM
